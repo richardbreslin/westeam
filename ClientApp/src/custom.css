@@ -4,7 +4,7 @@ a {
 }
 
 code {
-   color: #E01A76;
+  color: #E01A76;
 }
 
 .btn-primary {
@@ -14,19 +14,19 @@ code {
 
 }
 
-p{
+p {
   color: white;
 }
 
-div{
+div {
   color: black;
 }
 
-header{
+header {
   background-color: rgb(62, 62, 112);
 }
 
-h1{
+h1 {
   color: white;
 }
 
@@ -51,26 +51,26 @@ ol li {
   color: white;
 }
 
-body{
-  background-image: url('/ClientApp/public/westeam-logo.png');
+body {
+  /* background-image: url('/ClientApp/public/westeam-logo.png'); */
   background-color: rgb(43, 40, 40);
   background-repeat: no-repeat;
 
 }
 
-Alert p{
+Alert p {
   color: black;
 }
 
-NavLink{
+NavLink {
   color: white;
 }
 
-footer{
+footer {
   color: white;
 }
 
-Table{
+Table {
   background-color: rgb(195, 221, 228);
   border-style: solid;
   border-color: white 1px;

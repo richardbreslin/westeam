@@ -4,7 +4,7 @@ import Image from "react-bootstrap/Image";
 import Spinner from 'react-bootstrap/Spinner'
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import { Chat } from './Chat';
+// import { Chat } from './Chat';
 import { Container } from 'react-bootstrap';
 
 
@@ -111,7 +111,7 @@ export class Output extends Component {
                                 </Table>
                             </Col>
                             <Col>
-                                <Chat />
+                                {/* <Chat /> */}
                             </Col>
                         </Row>
                     </Container>

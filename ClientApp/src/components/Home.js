@@ -7,7 +7,7 @@ import Container from "react-bootstrap/Container";
 import ListGroup from "react-bootstrap/ListGroup";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import { Chat } from './Chat';
+// import { Chat } from './Chat';
 import { SteamIDBar } from './SteamIDBar';
 
 export class Home extends Component {
@@ -24,7 +24,7 @@ export class Home extends Component {
                             </Jumbotron>
                         </Col>
                         <Col xs={8}>
-                            <Chat />
+                            {/* <Chat /> */}
                         </Col>
                     </Row>
                 </Container>
